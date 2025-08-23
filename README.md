@@ -75,7 +75,7 @@ Namun, pemilihan model untuk tiap produk tetap bersifat adaptif: beberapa produk
     - Restock needed: 53  
 
 📷 Visualisasi hasil forecasting:  
-![Hasil Forecast](./img/hasil_forecast.png)
+![Hasil Forecast](./img/hasil forecast.png)
 
 - Dampak bisnis:  
   - Mengurangi risiko **kehabisan stok** produk dengan demand tinggi.  
@@ -93,3 +93,4 @@ Namun, pemilihan model untuk tiap produk tetap bersifat adaptif: beberapa produk
 
 ## ✍️ Kontributor
 - Fachri Hidayah Maliki Saddam  
+
