@@ -58,7 +58,13 @@ Namun, pemilihan model untuk tiap produk tetap bersifat adaptif: beberapa produk
 ---
 
 ## 🔍 Insight Bisnis
-- Dengan hasil forecasting, sistem dapat menghitung **average demand**, **safety stock**, dan **reorder point**.  
+- Dengan hasil forecasting, sistem dapat menghitung **average demand**, **safety stock**, dan **reorder point**.
+- avg_demand (Average Demand) → Rata-rata kebutuhan/permintaan barang dalam periode tertentu. Jadi baseline kebutuhan stok.
+- safety_stock → Stok pengaman untuk mengantisipasi fluktuasi permintaan atau keterlambatan pasokan.
+- reorder_point → Titik ambang stok di mana gudang harus melakukan pemesanan ulang sebelum kehabisan barang.
+- current_stock → Jumlah stok barang yang tersedia saat ini di gudang.
+
+restock_needed → Jumlah barang yang perlu dipesan agar stok kembali optimal (selisih antara reorder point dan current stock).  
 - Contoh rekomendasi:  
   - **Shampo 200ml**  
     - Demand rata-rata: 27  
@@ -93,5 +99,6 @@ Namun, pemilihan model untuk tiap produk tetap bersifat adaptif: beberapa produk
 
 ## ✍️ Kontributor
 - Fachri Hidayah Maliki Saddam  
+
 
 
