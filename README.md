@@ -91,6 +91,7 @@ Namun, pemilihan model untuk tiap produk tetap bersifat adaptif: beberapa produk
 ---
 
 ## 🚀 Pengembangan Lanjutan
+- Menambahkan data maksimal kapasitas barang di gudang
 - Menambahkan metode lain seperti **ARIMA** atau **LSTM** untuk data deret waktu.  
 - Integrasi ke **dashboard monitoring stok real-time** untuk tim gudang.  
 - Optimasi hyperparameter lebih lanjut untuk meningkatkan performa XGBoost.  
@@ -99,6 +100,7 @@ Namun, pemilihan model untuk tiap produk tetap bersifat adaptif: beberapa produk
 
 ## ✍️ Kontributor
 - Fachri Hidayah Maliki Saddam  
+
 
 
 
