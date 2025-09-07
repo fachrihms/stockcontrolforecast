@@ -63,8 +63,8 @@ Namun, pemilihan model untuk tiap produk tetap bersifat adaptif: beberapa produk
 - safety_stock → Stok pengaman untuk mengantisipasi fluktuasi permintaan atau keterlambatan pasokan.
 - reorder_point → Titik ambang stok di mana gudang harus melakukan pemesanan ulang sebelum kehabisan barang.
 - current_stock → Jumlah stok barang yang tersedia saat ini di gudang.
+- restock_needed → Jumlah barang yang perlu dipesan agar stok kembali optimal (selisih antara reorder point dan current stock).
 
-restock_needed → Jumlah barang yang perlu dipesan agar stok kembali optimal (selisih antara reorder point dan current stock).  
 - Contoh rekomendasi:  
   - **Shampo 200ml**  
     - Demand rata-rata: 27  
@@ -99,6 +99,7 @@ restock_needed → Jumlah barang yang perlu dipesan agar stok kembali optimal (s
 
 ## ✍️ Kontributor
 - Fachri Hidayah Maliki Saddam  
+
 
 
 
